@@ -120,3 +120,7 @@ realizarPedido("c3", [
     "688990813d6ce5b993a370b6",
     "688990923d6ce5b993a370ba"
 ]);
+
+module.exports = {
+  realizarPedido,
+};

@@ -1,11 +1,10 @@
-// main.js
-import inquirer from "inquirer";
-import { realizarPedido } from "./pedido.js";
-import {
+const inquirer = require("inquirer");
+const { realizarPedido } = require("./pedido");
+const {
   ingredientesMasUsados,
   promedioPreciosPorCategoria,
   categoriaMasVendida,
-} from "./consultas.js";
+} = require("./consultas");
 
 async function mostrarMenu() {
   let salir = false;

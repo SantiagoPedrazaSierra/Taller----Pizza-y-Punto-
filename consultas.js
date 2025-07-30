@@ -102,5 +102,10 @@ async function main() {
   }
 }
 
-main();
+ main();
 
+module.exports = {
+  ingredientesMasUsados,
+  promedioPreciosPorCategoria,
+  categoriaMasVendida,
+};
