@@ -196,5 +196,52 @@
         "fecha": "2025-07-30T05:38:14.300Z",
         "repartidorAsignado": "688991223d6ce5b993a370ce",
         "_id": "6889afc64e635c7d99581866"
+    },
+    {
+        "clienteId": "c1",
+        "pizzas": [
+            {
+                "nombre": "Vegetariana",
+                "precio": 20000,
+                "categoria": "vegana",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Vegano",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Champiñones",
+                        "cantidad": 3
+                    },
+                    {
+                        "nombre": "Pimentón",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "nombre": "Mixta",
+                "precio": 27000,
+                "categoria": "tradicional",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Mozzarella",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Pepperoni",
+                        "cantidad": 3
+                    },
+                    {
+                        "nombre": "Carne Molida",
+                        "cantidad": 2
+                    }
+                ]
+            }
+        ],
+        "total": 47000,
+        "fecha": "2025-07-30T06:10:06.463Z",
+        "repartidorAsignado": "688991223d6ce5b993a370ce",
+        "_id": "6889b73e793b9dc6bdc2e320"
     }
 ]

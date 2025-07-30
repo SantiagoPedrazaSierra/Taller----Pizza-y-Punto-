@@ -115,11 +115,11 @@ async function realizarPedido(clienteId, pizzaIds) {
 }
 
 // Ejecutar
-realizarPedido("c3", [
-    "688990783d6ce5b993a370b4",
-    "688990813d6ce5b993a370b6",
-    "688990923d6ce5b993a370ba"
-]);
+// realizarPedido("c3", [
+//     "688990783d6ce5b993a370b4",
+//     "688990813d6ce5b993a370b6",
+//     "688990923d6ce5b993a370ba"
+// ]);
 
 module.exports = {
   realizarPedido,
