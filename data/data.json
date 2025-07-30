@@ -1,0 +1,200 @@
+[
+    {
+        "clienteId": "c3",
+        "pizzas": [
+            {
+                "nombre": "Hawaiana",
+                "precio": 22000,
+                "categoria": "especial",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Mozzarella",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Piña",
+                        "cantidad": 3
+                    },
+                    {
+                        "nombre": "Jamón",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "nombre": "Vegetariana",
+                "precio": 20000,
+                "categoria": "vegana",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Vegano",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Champiñones",
+                        "cantidad": 3
+                    },
+                    {
+                        "nombre": "Pimentón",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "nombre": "Margarita",
+                "precio": 18000,
+                "categoria": "tradicional",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Mozzarella",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Tomate",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Albahaca",
+                        "cantidad": 1
+                    }
+                ]
+            }
+        ],
+        "total": 60000,
+        "fecha": "2025-07-30T05:02:33.160Z",
+        "repartidorAsignado": "688991223d6ce5b993a370ce",
+        "_id": "6889a769f9e90db15e9090e8"
+    },
+    {
+        "clienteId": "c3",
+        "pizzas": [
+            {
+                "nombre": "Hawaiana",
+                "precio": 22000,
+                "categoria": "especial",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Mozzarella",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Piña",
+                        "cantidad": 3
+                    },
+                    {
+                        "nombre": "Jamón",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "nombre": "Vegetariana",
+                "precio": 20000,
+                "categoria": "vegana",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Vegano",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Champiñones",
+                        "cantidad": 3
+                    },
+                    {
+                        "nombre": "Pimentón",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "nombre": "Margarita",
+                "precio": 18000,
+                "categoria": "tradicional",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Mozzarella",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Tomate",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Albahaca",
+                        "cantidad": 1
+                    }
+                ]
+            }
+        ],
+        "total": 60000,
+        "fecha": "2025-07-30T05:02:59.166Z",
+        "repartidorAsignado": "688999c83d6ce5b993a370fa",
+        "_id": "6889a783153ac40c84bc9ed2"
+    },
+    {
+        "clienteId": "c3",
+        "pizzas": [
+            {
+                "nombre": "Hawaiana",
+                "precio": 22000,
+                "categoria": "especial",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Mozzarella",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Piña",
+                        "cantidad": 3
+                    },
+                    {
+                        "nombre": "Jamón",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "nombre": "Vegetariana",
+                "precio": 20000,
+                "categoria": "vegana",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Vegano",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Champiñones",
+                        "cantidad": 3
+                    },
+                    {
+                        "nombre": "Pimentón",
+                        "cantidad": 2
+                    }
+                ]
+            },
+            {
+                "nombre": "Margarita",
+                "precio": 18000,
+                "categoria": "tradicional",
+                "ingredientes": [
+                    {
+                        "nombre": "Queso Mozzarella",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Tomate",
+                        "cantidad": 2
+                    },
+                    {
+                        "nombre": "Albahaca",
+                        "cantidad": 1
+                    }
+                ]
+            }
+        ],
+        "total": 60000,
+        "fecha": "2025-07-30T05:38:14.300Z",
+        "repartidorAsignado": "688991223d6ce5b993a370ce",
+        "_id": "6889afc64e635c7d99581866"
+    }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "taller----pizza-y-punto-",
+  "version": "1.0.0",
+  "description": "> Aplicación de consola desarrollada en **Node.js** para gestionar pedidos, inventario y análisis de ventas en una pizzería, usando **MongoDB**, **inquirer** y transacciones seguras.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoPedrazaSierra/Taller----Pizza-y-Punto-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoPedrazaSierra/Taller----Pizza-y-Punto-/issues"
+  },
+  "homepage": "https://github.com/SantiagoPedrazaSierra/Taller----Pizza-y-Punto-#readme",
+  "dependencies": {
+    "inquirer": "^12.9.0",
+    "mongodb": "^6.18.0"
+  }
+}
